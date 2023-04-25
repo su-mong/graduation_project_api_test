@@ -1,0 +1,64 @@
+{
+    "finalBid": [
+        {
+            "userId": 1,
+            "bidPrice": 17200,
+            "bidQuantity": 14
+        },
+        {
+            "userId": 2,
+            "bidPrice": 17100,
+            "bidQuantity": 7
+        },
+        {
+            "userId": 3,
+            "bidPrice": 18000,
+            "bidQuantity": 8
+        },
+        {
+            "userId": 4,
+            "bidPrice": 18200,
+            "bidQuantity": 25
+        },
+        {
+            "userId": 6,
+            "bidPrice": 18500,
+            "bidQuantity": 20
+        },
+        {
+            "userId": 7,
+            "bidPrice": 19100,
+            "bidQuantity": 12
+        },
+        {
+            "userId": 9,
+            "bidPrice": 16900,
+            "bidQuantity": 3
+        },
+        {
+            "userId": 12,
+            "bidPrice": 19900,
+            "bidQuantity": 5
+        },
+        {
+            "userId": 16,
+            "bidPrice": 18300,
+            "bidQuantity": 10
+        },
+        {
+            "userId": 18,
+            "bidPrice": 20000,
+            "bidQuantity": 1
+        },
+        {
+            "userId": 20,
+            "bidPrice": 18400,
+            "bidQuantity": 12
+        },
+        {
+            "userId": 25,
+            "bidPrice": 17600,
+            "bidQuantity": 12
+        }
+    ]
+  }
